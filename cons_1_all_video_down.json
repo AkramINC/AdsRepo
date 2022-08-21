@@ -1,6 +1,7 @@
 {
   "active_unity": false,
   "active_huawei": false,
+  "active_tiktok": false,
   "unity_app_key": "4886437",
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
