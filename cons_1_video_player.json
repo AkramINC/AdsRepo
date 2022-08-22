@@ -7,5 +7,5 @@
   "hw_inter_count": 4,
   "hw_roll_count": 4,
   "hw_pop_up_count": 4,
-  "pop_up_enabled": true
+  "pop_up_enabled": false
 }
