@@ -1,11 +1,11 @@
 {
-  "hw_app_id": "xxxxxxx",
-  "hw_native_id": "testy63txaom86",
-  "hw_inter_id": "testb4znbuh3n2",
-  "hw_roll_id": "testy3cglm3pj0",
-  "hw_splash_ad_id": "testq6zq98hecj",
-  "hw_inter_count": 24,
-  "hw_roll_count": 10,
-  "hw_pop_up_count": 20,
-  "pop_up_enabled": false
+  "hw_app_id": "106982897",
+  "hw_native_id": "x8m68mbbz1",
+  "hw_inter_id": "m2r47rnbc1",
+  "hw_roll_id": "s2nmdztb9s",
+  "hw_splash_ad_id": "h6zha9jl3e",
+  "hw_inter_count": 1,
+  "hw_roll_count": 1,
+  "hw_pop_up_count": 2,
+  "pop_up_enabled": true
 }
